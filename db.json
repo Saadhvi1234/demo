@@ -42,12 +42,6 @@
       "name": "Gifts",
       "description": "Gifts Description",
       "image": ""
-    },
-    {
-      "id": "6",
-      "name": "Modems",
-      "description": "Modems Description",
-      "image": ""
     }
   ],
   "products": [
@@ -56,8 +50,7 @@
       "name": "Cat Tee Black T-Shirt",
       "image": "",
       "sku": 12064273040195392,
-      "price": 10.9,
-      "quantity": "1"
+      "price": 10.9
     },
     {
       "id": 13,
@@ -65,31 +58,27 @@
       "image": "",
       "sku": 51498472915966370,
       "price": 13,
-      "quantity": "4"
     },
     {
       "id": 14,
       "sku": 10686354557628304,
       "name": "Sphynx Tie Dye Wine T-Shirt",
       "image": "",
-      "price": 9,
-      "quantity": "8"
+      "price": 9
     },
     {
       "id": 15,
       "sku": 11033926921508488,
       "name": "Skuul",
       "image": "",
-      "price": 14,
-      "quantity": "18"
+      "price": 14
     },
     {
       "id": 11,
       "sku": 39876704341265610,
       "name": "Wine Skul T-Shirt",
       "image": "",
-      "price": 10.9,
-      "quantity": "1"
+      "price": 10.9
     }
   ]
 }
