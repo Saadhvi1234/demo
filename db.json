@@ -47,7 +47,7 @@
   "products": [
     {
       "id": 12,
-      "image": "../public/Assets/Collections/Mens_collection.jpg",
+      "image": "https://github.com/Saadhvi1234/demo/blob/master/public/pexels-photo-1384218.jpeg",
       "sku": 12064273040195392,
       "price": 10.9,
       "catalog_id":1
