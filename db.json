@@ -47,21 +47,21 @@
   "products": [
     {
       "id": 12,
-      "image": "",
+      "image": "../public/Assets/Collections/Mens_collection.jpg",
       "sku": 12064273040195392,
       "price": 10.9,
       "catalog_id":1
     },
     {
       "id": 13,
-      "image": "",
+      "image": "../public/Assets/Collections/download.jpeg",
       "sku": 51498472915966370,
       "price": 13,
       "catalog_id":2
     },
     {
       "id": 14,
-      "name": "Sphynx Tie Dye Wine T-Shirt",
+       "image": "../public/Assets/Collections/pexels-photo-1384218.jpeg",
       "image": "",
       "price": 9,
       "catalog_id":1
